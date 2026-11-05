@@ -1,5 +1,5 @@
-// 指法小達人 Service Worker（版本 c10447d0cbe4）
-const CACHE = 'tt-site-c10447d0cbe4';
+// 指法小達人 Service Worker（版本 6f084d1b221d）
+const CACHE = 'tt-site-6f084d1b221d';
 const ASSETS = ["./","./index.html","./manifest.webmanifest","./sw-register.js","./icon-180.png","./icon-512.png"];
 
 self.addEventListener('install', (e) => {
