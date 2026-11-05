@@ -11,6 +11,6 @@
 
 ## 說明
 
-- 本 repo 只包含建置後的檔案，由原始專案的 `npm run build:site` 產生（版本 0.1.0，內容雜湊 6f084d1b221d）。
+- 本 repo 只包含建置後的檔案，由原始專案的 `npm run build:site` 產生（版本 0.1.0，內容雜湊 b9d0011cf2f5）。
 - 內容安全政策（CSP）禁止載入任何外部資源與對外連線。
 - 第三方套件授權見 [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt)。
